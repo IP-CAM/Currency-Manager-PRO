@@ -1,46 +1,46 @@
 <?php
 // Heading
 $_['heading_title']                     = 'Валютный Менеджер PRO v0.2.6.1.5 [by addist.ru]';
-$_['heading_general']                   = 'Основные данные';
-$_['heading_provider']                  = 'Настроки источника';
-$_['heading_payment']                   = 'Валюты способов оплаты';
-$_['heading_shipping']                  = 'Валюты способов доставки(исходняя валюта)';
+$_['heading_general']                   = 'Основні дані';
+$_['heading_provider']                  = 'Налаштування джерела';
+$_['heading_payment']                   = 'Валюти способів оплати';
+$_['heading_shipping']                  = 'Валюти способів доставки(вихідна валюта)';
 
 // Text
-$_['text_module']                       = 'Модули';
-$_['text_confirm']                      = 'Вы действительно хотите выполнить эту операцию?';
-$_['text_success']                      = 'Настройки успешно обновлены!';
-$_['text_updated']                      = 'Курсы валют успешно обновлены!';
-$_['text_converted']                    = 'Валюты товаров успешно сконвертированы!';
-$_['text_widget']                       = 'Виджет';
-$_['text_hours']                        = 'Часы';
-$_['text_name']                         = 'Название';
+$_['text_module']                       = 'Модулі';
+$_['text_confirm']                      = 'Ви дійсно бажаєте виконати цю операцію?';
+$_['text_success']                      = 'Налаштування успішно оновлені!';
+$_['text_updated']                      = 'Курси валют успішно оновлені!';
+$_['text_converted']                    = 'Валюти товарів успішно конвертовані!';
+$_['text_widget']                       = 'Віджет';
+$_['text_hours']                        = 'Години';
+$_['text_name']                         = 'Назва';
 $_['text_code']                         = 'Код';
-$_['text_value']                        = 'Значение';
-$_['text_country']                      = 'Страны';
-$_['text_payment']                      = 'Методы оплаты';
-$_['text_round']                        = 'Округление(-/+)';
-$_['text_correction']                   = 'Коррекция(-/+)';
+$_['text_value']                        = 'Значення';
+$_['text_country']                      = 'Країни';
+$_['text_payment']                      = 'Методи оплати';
+$_['text_round']                        = 'Округлення(-/+)';
+$_['text_correction']                   = 'Корекція(-/+)';
 $_['text_margin']                       = 'Маржа(%)';
 $_['text_overheads']                    = 'Надбавка(-/+)';
-$_['text_update']                       = 'Обновить курсы';
-$_['text_action']                       = 'Действие';
-$_['text_edit']                         = 'Изменить';
+$_['text_update']                       = 'Оновити курси';
+$_['text_action']                       = 'Дія';
+$_['text_edit']                         = 'Змінити';
 $_['text_currency']                     = 'Валюта';
-$_['text_by_category']                  = 'По разделам';
+$_['text_by_category']                  = 'По розділам';
 $_['text_by_brand']                     = 'По брендам';
 
 // Tab
-$_['tab_general']                       = 'Основыне настройки';
-$_['tab_currency']                      = 'Валюты';
-$_['tab_widget']                        = 'Виджет';
-$_['tab_convert']                       = 'Конвертация';
+$_['tab_general']                       = 'Основні налаштування';
+$_['tab_currency']                      = 'Валюти';
+$_['tab_widget']                        = 'Віджет';
+$_['tab_convert']                       = 'Конвертація';
 
 // Entry
 $_['entry_status']                      = 'Статус';
-$_['entry_update_auto']                 = 'Автоматическое обновление курсов';
-$_['entry_update_hours']                = 'Часы авто-обновления';
-$_['entry_currency_admin']              = 'Валюта админки';
+$_['entry_update_auto']                 = 'Автоматичне оновлення курсів';
+$_['entry_update_hours']                = 'Час авто-оновлення';
+$_['entry_currency_admin']              = 'Валюта адмінки';
 $_['entry_currency_admin_h']            = 'Валюту у которого булет курс равен к 1 и все операции системы будут уситываться в этой валюте.';
 $_['entry_currency_site']               = 'Валюта сайта по-умолчанию';
 $_['entry_currency_site_h']             = 'Валюта сайта по-умолчанию в которой вы принимаете заказы.';
